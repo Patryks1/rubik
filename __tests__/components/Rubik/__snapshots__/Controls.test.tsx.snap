@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controls renders Controls 1`] = `
+<div>
+  <div
+    class="flex space-x-2 m-5"
+    data-testid="controls-container"
+  >
+    <button
+      class="px-3 py-2 rounded-md bg-slate-600 text-white"
+    >
+      F
+    </button>
+    <button
+      class="px-3 py-2 rounded-md bg-slate-600 text-white"
+    >
+      R'
+    </button>
+    <button
+      class="px-3 py-2 rounded-md bg-slate-600 text-white"
+    >
+      U
+    </button>
+    <button
+      class="px-3 py-2 rounded-md bg-slate-600 text-white"
+    >
+      B'
+    </button>
+    <button
+      class="px-3 py-2 rounded-md bg-slate-600 text-white"
+    >
+      L
+    </button>
+    <button
+      class="px-3 py-2 rounded-md bg-slate-600 text-white"
+    >
+      D'
+    </button>
+  </div>
+</div>
+`;

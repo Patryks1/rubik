@@ -1,0 +1,5981 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Controls rotate "BACK" 90 degrees "COUNTER CLOCKWISE" 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "BACK" 90 degrees "COUNTER CLOCKWISE" 4 times should give us initial state 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "DOWN" 90 degrees "CLOCKWISE" 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "DOWN" 90 degrees "CLOCKWISE" 4 times should give us initial state 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "FRONT" 90 degrees "CLOCKWISE" 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "FRONT" 90 degrees "CLOCKWISE" 4 times should give us initial state 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "LEFT" 90 degrees "CLOCKWISE" 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "LEFT" 90 degrees "CLOCKWISE" 4 times should give us initial state 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "RIGHT" 90 degrees "COUNTER CLOCKWISE" 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "RIGHT" 90 degrees "COUNTER CLOCKWISE" 4 times should give us initial state 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "UP" 90 degrees "CLOCKWISE" 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home Controls rotate "UP" 90 degrees "CLOCKWISE" 4 times should give us initial state 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Home renders homepage unchanged 1`] = `
+<div>
+  <main>
+    <div
+      data-testid="rubik-cube-container"
+    >
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: white;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: orange;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: green;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: red;"
+          >
+            8
+          </div>
+        </div>
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: blue;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+      <div
+        class="ml-[240px]"
+      >
+        <div
+          class="flex flex-wrap w-[240px] h-[240px]"
+        >
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            0
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            1
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            2
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            3
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            4
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            5
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            6
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            7
+          </div>
+          <div
+            class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+            data-testid="tile-cell"
+            style="background-color: yellow;"
+          >
+            8
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex space-x-2 m-5"
+      data-testid="controls-container"
+    >
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        F
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        R'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        U
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        B'
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        L
+      </button>
+      <button
+        class="px-3 py-2 rounded-md bg-slate-600 text-white"
+      >
+        D'
+      </button>
+    </div>
+  </main>
+</div>
+`;

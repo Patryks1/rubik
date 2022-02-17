@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Face renders Face 1`] = `
+<div>
+  <div
+    class="flex flex-wrap w-[240px] h-[240px]"
+  >
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      0
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      1
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      2
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      3
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      4
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      5
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      6
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      7
+    </div>
+    <div
+      class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+      data-testid="tile-cell"
+      style="background-color: red;"
+    >
+      8
+    </div>
+  </div>
+</div>
+`;

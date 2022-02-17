@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tile renders Tile 1`] = `
+<div>
+  <div
+    class="flex-[0_0_80px] h-[80px] w-[80px] border border-black"
+    data-testid="tile-cell"
+    style="background-color: red;"
+  >
+    1
+  </div>
+</div>
+`;
